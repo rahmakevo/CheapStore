@@ -1,4 +1,4 @@
-# Cupertino Store
+# Cheap Store
 
 A new Flutter project.
 
